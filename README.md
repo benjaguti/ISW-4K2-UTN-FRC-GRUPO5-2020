@@ -1,5 +1,5 @@
 # Universidad Tecnológica Nacional - FRC
-## Ingenieria de Software - 4K4 - 2020
+## Ingenieria de Software - 4K2 - 2020
 ### *Grupo N° 5* - TP N° 4
 
 ### Estructura del repositorio
