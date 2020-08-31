@@ -7,8 +7,7 @@
 ```
 ISW-4K2-UTN-FRC-GRUPO5-2020
 ├── Material de cátedra
-│   ├── Documentos
-        └── Templates De Parcial
+│   ├── Documentos 
 │   ├── Filminas
 │   ├── Bibliografía
 │   └── Material de Clases 
