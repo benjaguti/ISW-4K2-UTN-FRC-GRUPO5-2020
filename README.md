@@ -44,7 +44,8 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 | \<nombre-doc\> | nombre del documento  de la catedra comenzando la primera letra con mayúscula y seguida en letras minúsculas.
 | \<nombre-fil\> | nombre de la filmina  de la catedra comenzando la primera letra con mayúscula y seguida en letras minúsculas.
 | \<nombre-mat\> | nombre del material de clase comenzando cada palabra con mayúsculas.
-| \<nombre-guía\> | nombre de la guía de trabajos en letras mayúscula.
+| \<nombre-guía\> | nombre de la guía de trabajos en letras minúsculas, comenzando cada palabra con mayúscula.
+| \<nombre-biblio\> | nombre del material bibliograficos cada palabra con mayúsculas.
 | \<nombre-tpE\> | nombre de los trabajos prácticos no evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
 | \<nombre-tpNE\> | nombre de los trabajos prácticos no evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
 
