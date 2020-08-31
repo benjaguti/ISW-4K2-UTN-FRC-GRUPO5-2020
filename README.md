@@ -8,6 +8,7 @@
 ISW-4K2-UTN-FRC-GRUPO5-2020
 ├── Material de cátedra
 │   ├── Documentos
+        └── Templates De Parcial
 │   ├── Filminas
 │   ├── Bibliografía
 │   └── Material de Clases 
@@ -27,7 +28,7 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 
 | Nombre  | Regla de nombrado  | Ubicación física |
 | :------------ |:---------------:| -----:|
-| Documentos de la cátedra | \<nombre-doc> - Ingeniería de software - 2020.pdf | /Material de cátedra/Documentos
+| Documentos de la cátedra | \<nombre-doc> - Ingeniería de software - 2020.<extensión> | /Material de cátedra/Documentos
 | Filminas de cátedra | \<nro> - \<nombre-fil> - 2020.pdf | /Material de cátedra/Filminas
 | Bibliografia de cátedra |\<nombre-biblio> - Bibliografía de la catedra.pdf | /Material de cátedra/Bibliografia
 | Material de clase | Material \<nro> - \<nombre-mat>.pdf | /Material de cátedra/Material de clases
