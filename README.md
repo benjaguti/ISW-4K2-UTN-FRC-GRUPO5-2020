@@ -46,7 +46,7 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 | \<nombre-mat\> | nombre del material de clase comenzando cada palabra con mayúsculas.
 | \<nombre-guía\> | nombre de la guía de trabajos en letras minúsculas, comenzando cada palabra con mayúscula.
 | \<nombre-biblio\> | nombre del material bibliograficos cada palabra con mayúsculas.
-| \<nombre-tpE\> | nombre de los trabajos prácticos no evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
+| \<nombre-tpE\> | nombre de los trabajos prácticos evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
 | \<nombre-tpNE\> | nombre de los trabajos prácticos no evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
 | \<extensión\> | nombre de la extensión de un archivo identificado como item de configuración.
 
