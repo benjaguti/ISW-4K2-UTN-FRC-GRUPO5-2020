@@ -48,7 +48,7 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 | \<nombre-biblio\> | nombre del material bibliograficos cada palabra con mayúsculas.
 | \<nombre-tpE\> | nombre de los trabajos prácticos no evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
 | \<nombre-tpNE\> | nombre de los trabajos prácticos no evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
-
+| \<extension\> | nombre de la extension de un archivo identificado como item de configuracion.
 
 
 
